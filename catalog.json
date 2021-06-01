@@ -1,0 +1,189 @@
+{
+   "id":"GbwBCWeO",
+   "title":"Kubernetes Playground Home",
+   "owners":{
+      "8J2FDdi":[
+         "all"
+      ]
+   },
+   "editors":{
+      
+   },
+   "viewers":{
+      "all":[
+         "all"
+      ]
+   },
+   "copyright":{
+      
+   },
+   "info":{
+      "headerTitle":"Kubernetes Playground.io",
+      "logo":"_images/KP_logo.png",
+      "title":"Welcome to Kubernetes Playground",
+      "description":[
+         "Our Kubernetes Playgrounds provide a pre-configured easy to explore environment with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
+         "A good grasp on the basic container technologies are needed, whether you are an administrator, programmer or data scientist."
+      ],
+      "title_admin": "Admin Playground",
+      "description_admin":[
+         "Admin Playground - Explore Kubernetes basics, Create and Manage Kubernetes deployments, Scaling etc. A good grasp on basic container management and devops in Kubernetes is a must whether you are an administrator or programmer."
+      ],
+      "title_operator": "Developer Playground",
+      "description_operator":[
+         ""
+      ],
+      "title_dataset": "Data Scientist Playground",
+      "description_dataset":[
+         "Data Science Playground provides ready to use pre-configured data science environment for experimentation.Bringing the promise of notebooks to Kubernetes and OpenShift as an Operator pattern. Deploy in the cloud or your data center or local laptop with ready to use data and notebooks without burdening yourself with installation details. You can work as team or use your own project namespace."
+      ],
+      "login":[
+         {
+            "type": "ibm",
+            "title": "IBM SSO",
+            "cookie_name": "edgesso",
+            "redirect_url": "https://labs.developer.ibm.com/labs/learn.html?redirect=",
+            "logo": "_images/ibm_login.png"
+         },
+         {
+            "type": "github",
+            "title": "Github",
+            "cookie_name": "ghsso",
+            "redirect_url": "https://labs.developer.ibm.com/edge/oauth/authorize?redirect=",
+            "logo": "_images/github_login.png"
+         },
+         {
+            "type": "google",
+            "title": "Google",
+            "cookie_name": "gsso",
+            "redirect_url": "",
+            "logo": "_images/google_login.png"
+         }
+      ],
+      "banner":{
+         "logo":"_images/Header.png",
+         "logo_1":"_images/Header.png",
+         "logo2":"_images/Logo.png",
+         "background_img":"_images/Background.png"
+      },
+      "keyFeatures":[
+         {
+            "text":"Kubernetes Playground leverages the power of Kubernetes operators / Helm charts."
+         },
+         {
+            "text":"Users can try the Operators and their provided examples to explore and understand the operators."
+         },
+         {
+            "text":"Hassle free deployment of operators with a click of a button."
+         },
+         {
+            "text":"Supported User Guide for Operators for ease of use."
+         },
+         {
+            "text":"Collection of Swagger APIs for use on Developer Playground."
+         },
+         {
+            "text":"Rich set of Datasets of type S3 and CSV for use."
+         },
+         {
+            "text":"Detailed instruction on: #-About the Operator #-Architecture #-How to deploy Operator (set of user instructions) #-An example that helps users to understand a use-case of application development with Operators."
+         }
+      ],
+      "keyFeatures_admin":[
+         {
+            "text":"admin key feature 1"
+         },
+         {
+            "text":"admin key feature 2"
+         }
+      ],
+      "keyFeatures_operator":[
+         {
+            "text":"operator key feature 1"
+         },
+         {
+            "text":"operator key feature 2"
+         }
+      ],
+      "keyFeatures_dataset":[
+         {
+            "text":"dataset key feature 1"
+         },
+         {
+            "text":"dataset key feature 2"
+         }
+      ],
+      "howto_img":"_images/chart.png",
+      "postLogin_title":"Free sponsered trial environments on IBM Cloud",
+      "postLogin_description":[
+         "Some description on benefits of OpenSource Operators in IBM Cloud"
+      ],
+      "postLogin_banner":{
+         "logo":"_images/postlogin.png"
+      },
+      "tiles":[
+         {
+            "title":"Custom Stack",
+            "description":"Prepare your own operator stack using various operators",
+            "logo":"_images/Custom.png",
+            "enabled":true
+         }
+      ],
+      "defaultVMDuration":"1",
+      "stacks":"_files/stacks.json",
+      "admin_stacks":"_files/admin_stacks.json",
+      "poolDetails":{
+        "buttonText": "Request VM",
+        "developer": {
+            "poolId":"k8s-ibm",
+            "onDemand": false
+         },
+        "data-scientist": {
+            "poolId":"data-explorer-ondemand-ibm",
+            "onDemand": true
+         },
+        "admin": {
+            "poolId":"k8s-ibm",
+            "onDemand": false
+         }
+      },
+      "appLayout":"accordion",
+      "appTheme":"g90",
+      "footer":"__private/footer.md",
+      "usefulLinks":[
+         {
+            "title":"Skaffold",
+            "description":"Skaffold handles the workflow for building, pushing and deploying your application, allowing you to focus on what matters most: writing code. ",
+            "url":"https://skaffold.dev/"
+         }
+      ]
+   },
+   "attachmentsBaseUrl":"https://developer.ibm.com/caas-storage/operator-playground/operator-tutorials/dev",
+   "cdnAttachmentsBaseUrl":"https://dw1.s81c.com/caas-storage/operator-playground/operator-tutorials/dev",
+   "attachments":[
+      {
+         "file":"_files/stacks.json",
+         "size":54351
+      },
+      {
+         "file":"_files/stacks_new.json",
+         "size":2589
+      }
+   ],
+   "numberOfDocuments":108,
+   "search":{
+      "fields":[
+         "document.title",
+         "document.descriptions.long",
+         "document.categories",
+         "document.tags"
+      ],
+      "filters":[
+         "document.categories",
+         "document.tags"
+      ],
+      "history":false
+   },
+   "version":"7",
+   "updated":"2020-09-28 09:17:36"
+}

@@ -1,0 +1,209 @@
+[
+ {
+  "title": "Grafana Operator",
+  "description": "Grafana Operator",
+  "logo": "_images/grafana-logo-2.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "grafana-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Grafana-Operator-Playground-tile.git",
+  "git_commit": "0b2bb612eaa6d724e5d2a5442047dd208b86f579",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "Prometheus Operator",
+  "description": "Prometheus Operator",
+  "logo": "_images/prometheus-logo.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "prometheus-operator",
+  "type": "stack",
+  "categories": [
+    "Monitoring"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/Prometheus-Operator-Playground-tile.git",
+  "git_commit": "c4de116a2679478787b0465e1675bcce24d28cc4",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+   "title": "MariaDB Operator",
+   "description": "MariaDB Operator",
+   "logo": "_images/mariadb-logo-1.jpg",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "mariadb-operator",
+   "type": "stack",
+   "categories": [
+     "Database"
+   ],
+   "is_certified": true,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
+   "git_commit": "52c62eeb34eaa41a03bb5acdc2d110bd57e42c5c",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ },
+ {
+    "title": "Kafka Helm Chart",
+    "description": "Kafka",
+    "logo": "_images/kafka-logo.jpg",
+    "enabled": true,
+    "category_label": [
+      "Helm"
+    ], 
+    "document": "",
+    "stack_id": "kafka-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+      "Streaming & Messaging"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Kafka-chart-tile.git",
+    "git_commit": "5859f5287d3f113980e6ef4a4c0b4abbf73814b3",
+    "installTime": "5 minutes",
+    "isStacksSaved": true
+  },
+ {
+  "title": "Redis Helm Chart",
+  "description": "Redis Helm Chart",
+  "logo": "_images/redis-logo-small.png",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "redis-bitnami-chart",
+  "type": "Helm",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
+  "git_commit": "4ca5afa38eba51aea9a316b7e67e7f25737bcd16",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+},
+ {
+  "title": "WordPress Helm Chart",
+  "description": "WordPress Helm Chart",
+  "logo": "_images/wordpress-logo.jpg",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "wordpress",
+  "type": "stack",
+  "categories": [
+    "CMS"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/WordPress-Helm-Chart-tile.git",
+  "git_commit": "9a458c2daf8e1448b423ea74222a4f6b7af59060",
+  "installTime": "10 minutes",
+  "isStacksSaved": true
+},
+  {
+    "title": "Learn Docker",
+    "description": "Docker",
+    "logo": "_images/docker-logo.jpg",
+    "enabled": true,
+    "category_label": [
+      "Course"
+    ], 
+    "document": "",
+    "stack_id": "docker-course",
+    "type": "Course",
+    "categories": [
+      "Containerization"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Docker-tile.git",
+    "git_commit": "ebc379331bb1b5a46c1a8d99323583d5f79de7e8",
+    "courseDuration": "30 minutes",
+    "isStacksSaved": true
+  },
+  {
+    "title": "Learn Kubernetes",
+    "description": "Kubernetes",
+    "logo": "_images/k8s-logo-1.png",
+    "enabled": true,
+    "category_label": [
+      "Course"
+    ], 
+    "document": "",
+    "stack_id": "kubernetes-course",
+    "type": "Course",
+    "categories": [
+      "Orchestration"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/Kubernetes-tile.git",
+    "git_commit": "5a7b647c4d941ce596feb057f4e3f19e18e0b2f2",
+    "courseDuration": "30 minutes",
+    "isStacksSaved": true
+  },
+ {
+    "title": "Learn Git",
+    "description": "Git",
+    "logo": "_images/git-logo.png",
+    "enabled": true,
+    "category_label": [
+      "Course"
+    ], 
+    "document": "",
+    "stack_id": "git-course",
+    "type": "Course",
+    "categories": [
+      "Version control tool"
+    ],
+    "is_certified": true,
+    "has_support": true,
+    "has_dataset": false,
+    "has_api": false,
+    "git_url": "https://github.com/operator-playground-io/git-course-tile.git",
+    "git_commit": "32ae99e14772ac73b62a353cb1c85cefae74d891",
+    "courseDuration": "30 minutes",
+    "isStacksSaved": true
+  }
+]
