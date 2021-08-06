@@ -18,11 +18,11 @@
       
    },
    "info":{
-      "headerTitle":"Lemans Program",
+      "headerTitle":"Le Mans Playground",
       "logo":"_images/KP_logo.png",
-      "title":"Welcome to Lemans Program",
+      "title":"Welcome to Le Mans Playground",
       "description":[
-         "Our Lemans Program provide a pre-configured easy to explore environment with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
+         "Our Le Mans Playground provide a pre-configured easy to explore environment with step-by-step guide to assist you in gaining familiarity with Opensource technologies built around it. These skills help you stay competitive in your current job as well as in future ones.<br><br>",
          "A good grasp on the basic container technologies are needed, whether you are an administrator, programmer or data scientist."
       ],
       "title_admin": "Admin Playground",
