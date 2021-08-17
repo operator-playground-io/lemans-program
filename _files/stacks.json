@@ -523,15 +523,9 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
-  "git_commit": "391ab8d5156b7c6eb39a70a56ea6174448404b14",
+  "git_commit": "813f9a3c25da72ef659f50368db3de7a3cd10acb",
   "installTime": "3 minutes",
-  "isStacksSaved": true,
-  "supporting_repos" : [
-      {
-          "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
-          "git_commit": "0510e179c52295a5b85aa8fa6d33fddb5b86d0da"
-      }
-  ]
+  "isStacksSaved": true
 },
 {
   "title": "Weather API",
