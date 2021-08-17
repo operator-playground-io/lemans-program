@@ -525,7 +525,13 @@
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
   "git_commit": "98d401c6acfd95dcab1a16912e9b0fc67d7c87eb",
   "installTime": "3 minutes",
-  "isStacksSaved": true
+  "isStacksSaved": true,
+  "supporting_repos" : [
+      {
+          "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
+          "git_commit": "0510e179c52295a5b85aa8fa6d33fddb5b86d0da"
+      }
+  ]
 },
 {
   "title": "Weather API",
@@ -580,13 +586,7 @@
   "git_url": "https://github.com/operator-playground-io/population-dataset.git",
   "git_commit": "58d0d64a02a381f5ebdbb7efb93656956e171a90",
   "installTime": "2 minutes",
-  "isStacksSaved": true,
-  "supporting_repos" : [
-      {
-          "git_url": "https://github.com/operator-playground-io/MariaDB-Operator-Playground-tile.git",
-          "git_commit": "0510e179c52295a5b85aa8fa6d33fddb5b86d0da"
-      }
-  ]
+  "isStacksSaved": true
   },
   
   {
