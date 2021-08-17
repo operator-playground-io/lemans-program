@@ -523,7 +523,7 @@
   "is_certified": false,
   "has_support": false,
   "git_url": "https://github.com/operator-playground-io/walmart-api.git",
-  "git_commit": "951d627935ddc129ad6a15fe932c970e037f3b09",
+  "git_commit": "639bab99e3f493b78920d554c461bd89d6e7a0a8",
   "installTime": "3 minutes",
   "isStacksSaved": true,
   "supporting_repos" : [
